@@ -33,5 +33,5 @@ print(plateformes_sociales)
 
 # les tuples
 # S'écrit comme une liste sauf que les crochets [] sont remplacés par des parenthèses ()
-# La principale différence est que les tuples sont immuables !
+# La principale différence est que les tuples sont immuables ! ( ce sont toujours des listes ! )
 exmples_tuples = (1, 2, 3, 4, 5)
