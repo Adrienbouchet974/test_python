@@ -30,3 +30,8 @@ print(len(plateformes_sociales))
 # Trie la liste par ordre alphabétique ( les majuscules sont placées avant les minuscules, et les nombres avant les majuscules ).
 plateformes_sociales.sort()
 print(plateformes_sociales)
+
+# les tuples
+# S'écrit comme une liste sauf que les crochets [] sont remplacés par des parenthèses ()
+# La principale différence est que les tuples sont immuables !
+exmples_tuples = (1, 2, 3, 4, 5)
