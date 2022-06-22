@@ -16,3 +16,17 @@ print(plateformes_sociales[2])
 print(langage_de_programmation[2])
 # Affiche la lettre "i" qui est l'indice [2] de la chaîne de caractères "twitter" contenu dans un array ou twitter est à l'index [2];
 print(plateformes_sociales[2][2])
+
+
+# les methodes
+# Ajoute "discord" à la fin de la liste
+plateformes_sociales.append("discord")
+print(plateformes_sociales)
+# Enlève "snapchat" de la liste
+plateformes_sociales.remove("snapchat")
+print(plateformes_sociales)
+# Affiche la longueur de la liste
+print(len(plateformes_sociales))
+# Trie la liste par ordre alphabétique ( les majuscules sont placées avant les minuscules, et les nombres avant les majuscules ).
+plateformes_sociales.sort()
+print(plateformes_sociales)
